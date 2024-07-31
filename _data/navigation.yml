@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: lodge
     - title: "WildLife"
       section: wildlife
-    - title: "Itinerary"
-      section: itinerary
     - title: "Contact"
       section: contact
 en-US:
