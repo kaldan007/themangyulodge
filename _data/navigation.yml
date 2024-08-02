@@ -16,7 +16,9 @@ en: &DEFAULT_EN
     - title: "Lodge"
       section: lodge
     - title: "Wildlife"
-      section: wildlife
+      section: 
+    - title: "Timeline"
+      section: timeline
     - title: "Contact"
       section: contact
 en-US:
